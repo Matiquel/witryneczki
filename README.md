@@ -1,1 +1,2 @@
-# witryneczki
+# Projekt-Witryny
+Projekt długoterminowy - witryny
